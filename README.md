@@ -1,1 +1,1 @@
-# Estruturas de dados em c
+# Useful C algorithms
